@@ -1,0 +1,19 @@
+# Dataset archives
+DIARETDB1.zip
+DRIVE.zip
+
+# Test images
+test_images/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/
